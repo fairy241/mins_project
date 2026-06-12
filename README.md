@@ -29,7 +29,7 @@ python main.py "1부터 10까지 출력하는 파이썬 코드 작성해 줘"
 
 
 
-# 라이선스
+## 라이선스
 MIT License
 
 Copyright (c) [2026] [minseong kang]
